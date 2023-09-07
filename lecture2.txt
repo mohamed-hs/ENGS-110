@@ -1,0 +1,15 @@
+		Data Representation Notes	05/09/23
+
+- Binary system VS Decimal system
+- Hexadecimal system, and octal system
+- binary: 2, octal: 8, decimal: 10, hexadecimal: 16.
+- Bits | Highest Number | (k^n - 1) for k = 2,8,10,16 and n (= Natural
+- Converting a word "Hello" into hex using the ASCII table
+- LSB and MSB (less significant bit / most significant bit) lsb = the one's place, msb = highest order place
+- Graphical and logical representations of bits
+-
+-
+-
+-
+-
+-
