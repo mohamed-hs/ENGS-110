@@ -1,3 +1,29 @@
 			Participation Notes (07/09/23)
 
-In this lecture we have resumed the complex ideas of data representation, in this lecture we have focused on color, sound, and conversion of systems. Then we moved on to Boolean Logic.
+In this lecture we have resumed the complex ideas of data representation, in this lecture we have focused on color, sound, and conversion of systems. Then we moved on to Boolean Logic. 
+
+We also have covered the notion of algorithms, solutions, and pseudo-code.
+___________________________________________________________________________
+
+ALgorithm desgin:
+	
+  Before:
+	1) Input
+
+	2) Output
+
+	3) Conditions
+
+  During:
+	1)Variables
+
+	2)Starting conditions
+
+	3)Termination condition
+
+	4)Corner Cases: Special conditions (dividing by zero)
+	
+	5)Verifying Date before use
+___________________________________________________________________________
+
+Flow chart == Block Diagram == Block Schema ==> visual representation of flow data.
