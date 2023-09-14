@@ -1,5 +1,0 @@
-These are the notes taken for lecture two 28.08.23
-
-In this lecture we have covered the unix system, git and other commands, and the structure of user/kernel/system interface.
-Although the commands were hard and unclear, after using the man command with vim,git,and gcc, 
-everything became a little clearer and with practise I will getused to using linux and navigating smoothly through the terminal. 
