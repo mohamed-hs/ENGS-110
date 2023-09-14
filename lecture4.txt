@@ -1,0 +1,6 @@
+			Participation Notes (14/09/23)
+
+In today's lecture we have reviewed the two's complement and how to find the negative number int the world of zeroes and ones. Moreover, we have uncovered how to transform an (x) bit data into a (y) bit data [in class we changed an 8-bit version of number 9 into a 16 bit by just adding zeroes]
+
+And after a long review of coding, flowchart, and data representation. QUIZ.... and I understood the assignments and am confident in my solutions.
+Except for the flowchart (i may have made some graphical mistakes)
