@@ -1,0 +1,9 @@
+				Lecture Notes (19/09/23)
+
+In this lecture, we have reviewed some of the commands directly related to compiling and file management through the linux terminal.
+
+A key moment of this lecture is understanding the return function and purpose.
+
+We have also learned and applied the various variable representations of data inthe C language.
+
+We have breifly converted the 4 quiz variations from psuedocode into C code whilst learning basic and neccessary functions, notations, and data representation.
