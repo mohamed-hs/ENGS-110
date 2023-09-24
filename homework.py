@@ -33,7 +33,7 @@ def draw_rectangle (n, m, c):
     print ()
 
 
-choice = input ("Choose a fucntion from the 6 Magical Functions:\n  1 - Sum of integers\n  2 - Reversed number\n  3 - Palindrome\n  4 - Concatenate\n  5 - Is power of 2\n  6 - Draw me a rectagle\n  7 - Draw a traingle\n----> ")
+choice = input ("Choose a fucntion from the 7 Magical Functions:\n  1 - Sum of integers\n  2 - Reversed number\n  3 - Palindrome\n  4 - Concatenate\n  5 - Is power of 2\n  6 - Draw me a rectagle\n  7 - Draw a traingle\n----> ")
 
 match (int (choice)):
     case 1:
