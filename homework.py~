@@ -1,0 +1,78 @@
+# Welcome to the more boring version of the homework, everything here is... simpler
+
+
+def getSum(num):
+
+    s = 0
+    for i in str(num):
+        s += int(i)
+    return s
+
+
+def is_two(num):
+
+    if num == 1:
+        return True
+
+    while num > 1:
+        if num % 2 != 0:
+            return False
+            break
+        else:
+            num /= 2
+
+    return True
+
+
+def draw_rectangle(n, m, c):
+
+    for i in range(n):
+        if i == 0 or i == n-1:
+            print(c*(m+2))
+        else:
+            print(c + " "*m + c)
+    print()
+
+
+def main():
+    choice = input("Choose a fucntion from the 6 Magical Functions:\n  1 - Sum of integers\n  2 - Reversed number\n  3 - Palindrome\n  4 - Concatenate\n  5 - Is power of 2\n  6 - Draw me a rectagle\n----> ")
+
+    match(int(choice)):
+    
+        case 1:
+             num = input("Enter your number: ")
+             print(getSum(num))
+    
+         case 2:
+             num = input("Enter your number: ")
+             print(num[::-1])
+
+        case 3:
+             num = input("Enter your number: ")
+             if num == num[::-1]:
+                print("Yay, a palindrome!")
+             else:
+                print("No no no")
+    
+        case 4:
+             s1 = input("Enter num 1: ")
+             s2 = input("Enter num 2: ")
+             print(s1 + s2)
+
+        case 5:
+             num = int(input("Enter your number: "))
+             if is_two(num):
+                print("Yay, he is a two indeed")
+             else:
+                print("Sadly one of us is not a two, and its not me nor you")
+        case 6:
+             n = int(input("Side 1: "))
+             m = int(input("Side 2: "))
+             c = input("Character: ")
+             draw_rectangle(n, m, c)
+
+        case _:
+             print("You have entered an invalid option!")
+
+if __name__ == "__main__":
+    main()
