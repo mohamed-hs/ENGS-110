@@ -1,0 +1,3 @@
+In this amazing lecture where I was not sleepy, we have discussed some properties of char variable in C, array system, and adresses.
+
+I still cant understand strings in C, but i can always translate python to C.
