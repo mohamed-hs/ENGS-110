@@ -1,0 +1,6 @@
+				Participation Notes (03/10/23)
+* In this lecture we discussed the various types of operators, the difference between logical and bitwise operators, and special operators.
+
+* We have introduced a light discussion on the scopes and types of functions
+
+* We then have began to learn the difference between static nd dynamic memory
