@@ -1,0 +1,6 @@
+			Participation notes for (05/10/23) 
+
+* In this lecture we discussed functions with empty type, and functions 
+* that get input and return output, only take input, or only output results.
+*
+* In addition, we solved the quadratic equation using pointers and some math.
