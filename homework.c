@@ -133,10 +133,13 @@ is_power_of_two (int a)
     }
   return true;
 }
+//Your program says that numbers <= 0 are power of 2
+
 
 // Ah yes, a rectangle doctor Nefario
 
-int
+//You don't have return value, in that case function type is void
+void
 print_my_rectangle (int a, int b, char c)
 {
 
