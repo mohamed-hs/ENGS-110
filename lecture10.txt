@@ -1,0 +1,7 @@
+							Lecture Notes (10/10/23)
+
+# In this lecture, we discussed strings in C and some of the standard functions. And as any programmer should do, we googled the functions to try and recreate them. We have discussed strlen, strcpy, and strcmp. 
+
+# In addition, we have covered some of the processor-wise functions and its usages.
+
+# Moreover, we began the discussion and coding of file based programming (open file, read file, edit file, close file).
