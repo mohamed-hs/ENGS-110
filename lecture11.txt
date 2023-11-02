@@ -1,0 +1,8 @@
+						Participation Notes for (2/11/2023)
+
+#__# In this class we reviewed the list struct and specificlly the double linked lists.
+#__# We also reviewed the types of data and the difference between dynamic and static memory allocation.
+#__# In addition we have implemented a remove, pushfront, pushback, and insert function.
+#__# I did not understand the full concept of lists and struct in C, but I am sure implementing my project will help me understand it
+
+#__# Have a great day, if it's not then...apsos
