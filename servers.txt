@@ -1,0 +1,10 @@
+											Participation Notes (5/12/2023)
+
+* In this lecture we defined the basics of connection establishment between client and host(server)
+
+* Number of ports of a computer: 0 ... (2^16 - 1)
+
+* The main difference between TCP (transmission control protocol) and UDP (user datagram protocol) is that TCP is a connection-based protocol and UDP is connectionless.
+While TCP is more reliable, it transfers data more slowly. UDP is less reliable but works more quickly. This makes each protocol suited to different types of data transfers.
+
+* We also implemented client/server codes in C using new libraries and functions 
